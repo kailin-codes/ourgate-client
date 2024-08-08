@@ -69,3 +69,4 @@ new Vue({
   render: (h) => h(App)
 }).$mount('#app')
 // Bug fixes
+// Minor bug fix
